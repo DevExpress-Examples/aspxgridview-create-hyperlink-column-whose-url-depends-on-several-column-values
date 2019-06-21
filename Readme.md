@@ -7,6 +7,9 @@
 * [Default2.aspx.cs](./CS/Default2.aspx.cs) (VB: [Default2.aspx.vb](./VB/Default2.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to create HyperLink Column whose URL depends on several column values
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t517626/)**
+<!-- run online end -->
 
 
 This example demonstrates how to create GridViewDataHyperLinkColumn whose URL depends on several column values. Instead of creating a custom <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebGridViewDataColumn_DataItemTemplatetopic">DataItemTemplate</a> (<a href="https://www.devexpress.com/Support/Center/p/E993">How to use a hyperlink whose argument depends on several cell values in the ASPxGridView</a>), you can use <a href="https://documentation.devexpress.com/#AspNet/CustomDocument16859">Unbound Column</a>.  <br>Create a column's URL using the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebGridViewDataColumn_UnboundExpressiontopic">GridViewDataColumn.UnboundExpression</a> property:<br>
