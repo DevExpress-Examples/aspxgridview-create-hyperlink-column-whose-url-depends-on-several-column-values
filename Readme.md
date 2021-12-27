@@ -29,7 +29,7 @@ Specify the [GridViewDataColumn.UnboundExpression](https://docs.devexpress.com/A
 </dx:GridViewDataHyperLinkColumn>
 ```
 
-Additionally, you can define the [HyperLinkProperties.NavigateUrlFormatString](https://docs.devexpress.com/AspNet/DevExpress.Web.HyperLinkProperties.NavigateUrlFormatString) property to add additional text to the complete URL:
+You can define the [HyperLinkProperties.NavigateUrlFormatString](https://docs.devexpress.com/AspNet/DevExpress.Web.HyperLinkProperties.NavigateUrlFormatString) property to add additional text to the complete URL:
 
 
 ```aspx
