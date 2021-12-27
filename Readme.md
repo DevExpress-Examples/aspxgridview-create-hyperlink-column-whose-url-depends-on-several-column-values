@@ -21,7 +21,8 @@ Specify the [GridViewDataColumn.UnboundExpression](https://docs.devexpress.com/A
 ```aspx
 <dx:GridViewDataHyperLinkColumn FieldName="HyperLinkColumn" 
                                 UnboundType="String"
-                                UnboundExpression="'Default2.aspx?id='+[CategoryID]+'&name='+[CategoryName]" VisibleIndex="4">
+                                UnboundExpression="'Default2.aspx?id='+[CategoryID]+'&name='+[CategoryName]" 
+                                VisibleIndex="4">
     <PropertiesHyperLinkEdit TextField="CategoryName" 
                              DisplayFormatString="Open <b>{0}<b/>">
     </PropertiesHyperLinkEdit>
