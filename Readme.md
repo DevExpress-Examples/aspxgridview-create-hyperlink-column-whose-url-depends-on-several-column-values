@@ -54,7 +54,7 @@ You can also configure a custom [DataItemTemplate](https://docs.devexpress.com/A
 ## Documentation
 
 * [Grid View](https://docs.devexpress.com/AspNet/5823/components/grid-view)
-* [Grid View - Unbound Columns](https://docs.devexpress.com/AspNet/114140/components/card-view/concepts/data-representation-basics/columns/unbound-columns?p=netframework).
+* [Grid View - Unbound Columns](https://docs.devexpress.com/AspNet/114140/components/card-view/concepts/data-representation-basics/columns/unbound-columns?p=netframework)
 * [GridViewDataHyperLinkColumn](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataHyperLinkColumn?p=netframework)
 
 ## More Examples
