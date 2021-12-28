@@ -7,7 +7,7 @@
 # Grid View for Web Forms - How to Create a HyperLink Column Whose URL Depends on Several Column Values
 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t517626/)**
+**[[Run Online]](https://codecentral.devexpress.com/128533696/)**
 <!-- run online end -->
 
 
