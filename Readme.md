@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Grid View for Web Forms - How to Create a HyperLink Column Whose URL Depends on Several Column Values
+# Grid View for ASP.NET Web Forms - How to create a HyperLink column whose URL depends on several column values
 
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/128533696/)**
@@ -15,7 +15,7 @@ This example demonstrates how to create a [GridViewDataHyperLinkColumn](https://
 
 ![Grid columns that contain hyperlinks.](images/grid-hyperlinks.png)
 
-Specify the [GridViewDataColumn.UnboundExpression](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataColumn.UnboundExpression) property to create a column's URL:
+Specify the [`GridViewDataColumn.UnboundExpression`](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataColumn.UnboundExpression) property to create a column's URL:
 
 
 ```aspx
@@ -29,7 +29,7 @@ Specify the [GridViewDataColumn.UnboundExpression](https://docs.devexpress.com/A
 </dx:GridViewDataHyperLinkColumn>
 ```
 
-You can define the [HyperLinkProperties.NavigateUrlFormatString](https://docs.devexpress.com/AspNet/DevExpress.Web.HyperLinkProperties.NavigateUrlFormatString) property to add additional text to the complete URL:
+You can define the [`HyperLinkProperties.NavigateUrlFormatString`](https://docs.devexpress.com/AspNet/DevExpress.Web.HyperLinkProperties.NavigateUrlFormatString) property to add additional text to the complete URL:
 
 
 ```aspx
