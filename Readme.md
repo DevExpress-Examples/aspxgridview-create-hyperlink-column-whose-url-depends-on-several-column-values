@@ -15,7 +15,7 @@ This example demonstrates how to create a [GridViewDataHyperLinkColumn](https://
 
 ![Grid columns that contain hyperlinks.](images/grid-hyperlinks.png)
 
-Specify the [`GridViewDataColumn.UnboundExpression`](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataColumn.UnboundExpression) property to create a column's URL:
+Specify the [GridViewDataColumn.UnboundExpression](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataColumn.UnboundExpression) property to create a column's URL:
 
 
 ```aspx
@@ -29,7 +29,7 @@ Specify the [`GridViewDataColumn.UnboundExpression`](https://docs.devexpress.com
 </dx:GridViewDataHyperLinkColumn>
 ```
 
-You can define the [`HyperLinkProperties.NavigateUrlFormatString`](https://docs.devexpress.com/AspNet/DevExpress.Web.HyperLinkProperties.NavigateUrlFormatString) property to add additional text to the complete URL:
+You can define the [HyperLinkProperties.NavigateUrlFormatString](https://docs.devexpress.com/AspNet/DevExpress.Web.HyperLinkProperties.NavigateUrlFormatString) property to add additional text to the complete URL:
 
 
 ```aspx
