@@ -48,8 +48,8 @@ You can also configure a custom [DataItemTemplate](https://docs.devexpress.com/A
 
 ## Files to Look At
 
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default2.aspx.cs](./CS/Default2.aspx.cs) (VB: [Default2.aspx.vb](./VB/Default2.aspx.vb))
+* [Default.aspx](./CS/Solution/Default.aspx) (VB: [Default.aspx](./VB/Solution/Default.aspx))
+* [Default2.aspx.cs](./CS/Solution/Default2.aspx.cs) (VB: [Default2.aspx.vb](./VB/Solution/Default2.aspx.vb))
 
 ## Documentation
 
