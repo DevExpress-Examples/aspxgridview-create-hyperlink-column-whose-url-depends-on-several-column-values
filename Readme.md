@@ -6,9 +6,6 @@
 
 # Grid View for ASP.NET Web Forms - How to create a HyperLink column whose URL depends on several column values
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128533696/)**
-<!-- run online end -->
 
 
 This example demonstrates how to create a [GridViewDataHyperLinkColumn](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataHyperLinkColumn?p=netframework) whose URL depends on several column values. 
